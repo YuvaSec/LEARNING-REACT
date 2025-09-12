@@ -1,0 +1,113 @@
+{
+  "userAdmonitions": {
+    "TERMINAL": {
+      "type": "TERMINAL",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "terminal",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "TERMINAL",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "apple": {
+      "type": "apple",
+      "color": "49, 92, 200",
+      "icon": {
+        "name": "apple",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "apple",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "android": {
+      "type": "android",
+      "color": "56, 190, 30",
+      "icon": {
+        "name": "android",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "windows": {
+      "type": "windows",
+      "color": "0, 168, 231",
+      "icon": {
+        "name": "windows",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "browsers": {
+      "type": "browsers",
+      "color": "168, 36, 1",
+      "icon": {
+        "type": "octicons",
+        "name": "browser"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "SUBS": {
+      "type": "SUBS",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "google-play",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "QUESTION": {
+      "type": "QUESTION",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "question",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "QUESTION",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": true,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.363cc4"
+}

@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "656d83bef12ce5d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4eeb1fe286d53e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "34a932d6b6efa25d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/Networking 64-88.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0354a9f9a90bee07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdec0926119619d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/11-08-2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b35c86bfada9888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/How to change default linux distribution in wsl.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65c60c4e9abf510c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/How to Uninstall apps on kali linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce5cecc358e7a9d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/How to Uninstall apps on kali linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e54923d6c904756d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+/How to install zoxide.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4171b338d6ebb38d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0592e8b75afa184b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "23d4a974352481ee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "study ele",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "270e9e7fcb41d2ce",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9b5f1679f97e560b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4f9db3dbca564c31",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0909b4fc397a33f4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "2c8d97a9a46a6148",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "+/How to install zoxide.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5649f599086389cf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "+/How to install zoxide.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "404d941606fea5f7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "+/How to install zoxide.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Toggle stacked tabs": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e54923d6c904756d",
+  "lastOpenFiles": [
+    "+/How to Uninstall apps on kali linux.md",
+    "+/How to install zoxide.md",
+    "+PROJ = DIGITAL WORLD/LINUX/How to Solve Permission denied for Bash script.md",
+    "+/Untitled.md",
+    "++ VIA SERVIO TULLIO 4/AMENITY MATTERS/ELECTRICITY STUDY.md",
+    "+/How to install Kali linux and GUI.md",
+    "+/How to change default linux distribution in wsl.md",
+    "+PROJ = DIGITAL WORLD/LINUX/HOW TO INSTALL WSL LINUX.md",
+    "+/How to install Kali full On WSL.md",
+    "+/11-08-2024.md",
+    "+PROJ = DIGITAL WORLD/LINUX/How to open a Linux distro from the Windows Cmd.md",
+    "+/LINUX LEARNT TRICKS.md",
+    "+/YOUTUBE LINKS.md",
+    "+/10-08-2024.md",
+    "+/Learnt ticks.md",
+    "+/08-08-2024.md",
+    "+/How to open a Linux distro from the Windows Cmd.md",
+    "+/Networking 64-88.md",
+    "+/How to solve Authentication failure..md",
+    "+/HOW TO INSTALL WSL LINUX.md",
+    "+/How to Solve Permission denied for Bash script.md",
+    "+/USEFULL WEBSITES.md",
+    "+/23-07-2024.md",
+    "+PROJ = CODE/PROJECT CS50/Python code cs50.md",
+    "+/FUNCTIONS IN PYTHON..md",
+    "+/22-07-2024.md",
+    "+ MEDIA/PROJECT DVEE/FOOCUS AI/foocus colab link.jpg",
+    "+ MEDIA/PROJECT DVEE/FOOCUS AI/foocus ai connecting.jpg",
+    "+ MEDIA/PROJECT DVEE/FOOCUS AI/foocus ai live link.jpg",
+    "+ MEDIA/PROJECT DVEE/FOOCUS AI/Initiliazing foocus ai.jpg",
+    "+ MEDIA/PROJECT DVEE/FOOCUS AI/foocus ai git link.jpg",
+    "+ MEDIA/PROJECT DVEE/FOOCUS AI",
+    "+ MEDIA/image 8.jpg",
+    "+ MEDIA/image 7.jpg",
+    "+ MEDIA/image 6.jpg",
+    "+ MEDIA/image 5.jpg",
+    "+ MEDIA/image 4.jpg",
+    "+ MEDIA/VIA SERVIO TULLIO 4/HOME/REPAIR/BOILER/1.mp4",
+    "+ MEDIA/VIA SERVIO TULLIO 4/HOME/REPAIR/BOILER/2.mp4",
+    "+ MEDIA/VIA SERVIO TULLIO 4/HOME/REPAIR/BOILER/4.mp4",
+    "+ MEDIA/VIA SERVIO TULLIO 4/HOME/REPAIR/BOILER/5.mp4",
+    "PROJ+ DIGITAL WORLD/APPLE ecosystem/context.mdb",
+    "PROJ+ DIGITAL WORLD/APPLE ecosystem/IOS",
+    "PROJ+ DIGITAL WORLD/APPLE ecosystem/MAC",
+    "PROJ+ DIGITAL WORLD/OPEN SOURCE",
+    "PROJ+ DIGITAL WORLD/APPLE ecosystem",
+    "+ FOLDER MANAGEMENT/FOLDER MANAGEMENT/LOCATION DATA/COMMERCIAL VIDEOS.canvas",
+    "+ FOLDER MANAGEMENT/FOLDER MANAGEMENT/LOCATION DATA/FABS.canvas",
+    "+ FOLDER MANAGEMENT/FOLDER MANAGEMENT/001.canvas"
+  ]
+}
